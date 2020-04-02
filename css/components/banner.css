@@ -1,0 +1,23 @@
+.banner{
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.banner-container{
+  width: auto;
+  margin: 0;
+  padding: 0px 140px;
+}
+
+.banner-container p{
+ padding-bottom: 20px;
+ color: #dee3e2;
+}
+
+.banner-container h1{
+ margin-top: 0;
+}
